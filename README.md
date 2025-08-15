@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Sankalpa B R, Computer Science undergraduate at RV College of Engineering (CGPA: 9.49/10)
+  Hi, I'm Sankalpa B R, Computer Science undergraduate at RV College of Engineering.
   <br>
   <br>
   🎯 Seeking a Software Development Engineer role to leverage expertise in Data Structures, Algorithms, and scalable software design.  
