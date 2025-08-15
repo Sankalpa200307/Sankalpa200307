@@ -13,9 +13,8 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Sankalpa B R, Computer Science undergraduate at RV College of Engineering.
-  <br>
-  <br>
+  Hi, I'm Sankalpa B R, Computer Science undergraduate at RV College of Engineering (CGPA: 9.49/10)
+  <br><br>
   🎯 Seeking a Software Development Engineer role to leverage expertise in Data Structures, Algorithms, and scalable software design.  
   <br>
   💻 Passionate about building high-performance, reliable, and user-centric applications.  
@@ -28,81 +27,67 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Tools 🔥</h2>
-<br>
+<h2 align="center">🔥 Tools, Languages, and Technologies 🔥</h2>
 
-<div align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/42488426?s=200&v=4" height="40" alt="Blynk logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi logo" />
-</div>
+> Tools, languages, and other things that I like to work with.
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br>C++</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br>Python</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/><br>C</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br>React</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity"/><br>Solidity</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/><br>TensorFlow</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/><br>PyTorch</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/><br>Pandas</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/><br>Firebase</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/42488426?s=200&v=4" width="48" height="48" alt="Blynk"/><br>Blynk</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP"/><br>GCP</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/><br>Bash</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/><br>MATLAB</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/><br>Postman</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/><br>Linux</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br>Git</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/><br>Arduino</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi"/><br>Raspberry Pi</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br>HTML5</td>
+  </tr>
+</table>
 
 <hr>
-
 <h2 align="center">⚡ Featured Projects ⚡</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sankalpa200307/Smart-Mobility-Framework" title="Smart Mobility Framework"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa200307&repo=Smart-Mobility-Framework&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sankalpa200307/Secure-File-Transfer-Using-Merkle-Tree-With-Bert-File-Recovery" title="Secure File Transfer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa200307&repo=Secure-File-Transfer-Using-Merkle-Tree-With-Bert-File-Recovery&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<div align="center">
+  <a href="https://github.com/Sankalpa200307/Smart-Mobility-Framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa200307&repo=Smart-Mobility-Framework&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+  <a href="https://github.com/Sankalpa200307/Secure-File-Transfer-Using-Merkle-Tree-With-Bert-File-Recovery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa200307&repo=Secure-File-Transfer-Using-Merkle-Tree-With-Bert-File-Recovery&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+  <a href="https://github.com/Sankalpa200307/blockchain-eventmanagement">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa200307&repo=blockchain-eventmanagement&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sankalpa200307/blockchain-eventmanagement" title="Event Management System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa200307&repo=blockchain-eventmanagement&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
 <hr>
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
+
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Sankalpa200307&theme=react&border=61dafb&hide_border=true" alt="Sankalpa200307" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Sankalpa200307&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
@@ -113,6 +98,5 @@
     </a>
   </div>
   <br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpa200307&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
