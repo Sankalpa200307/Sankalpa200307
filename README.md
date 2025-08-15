@@ -20,8 +20,6 @@
   <br>
   💻 Passionate about building high-performance, reliable, and user-centric applications.  
   <br>
-  🔬 Skilled in C++, Python, C, and Web Technologies (HTML, CSS, JS, MySQL).  
-  <br>
   📚 Experienced in Blockchain, Cybersecurity, Generative AI, and Hardware (Arduino, ESP32, Raspberry Pi).  
   <br>
   📫 How to reach me: <a href="mailto:sankalpabr.cs22@rvce.edu.in">sankalpabr.cs22@rvce.edu.in</a>
@@ -80,21 +78,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi logo" />
 </div>
 
-<hr>
 
-<h2 align="center">⚡ Featured Projects ⚡</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sankalpa200307/Smart-Mobility-Framework" title="Smart Mobility Framework"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa200307&repo=Smart-Mobility-Framework&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sankalpa200307/Secure-File-Transfer-Using-Merkle-Tree-With-Bert-File-Recovery" title="Secure File Transfer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa200307&repo=Secure-File-Transfer-Using-Merkle-Tree-With-Bert-File-Recovery&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sankalpa200307/blockchain-eventmanagement" title="Event Management System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa200307&repo=blockchain-eventmanagement&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<hr>
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <p align=center>
