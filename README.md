@@ -9,20 +9,19 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sankalpa-b-r/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
   <code><a href="https://github.com/Sankalpa200307" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
-  <code><a href="https://leetcode.com/u/sankalpbr21/" title="LeetCode Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> LeetCode</a></code>
+  <code><a href="https://leetcode.com/u/sankalpbr21/" title="LeetCode Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> LeetCode</a></code>
 </h5>
 <br>
+
 <p align="center">
   Hi, I'm Sankalpa B R, Computer Science undergraduate at RV College of Engineering.
-  <br>
-  <br>
-  🎯 Seeking a Software Development Engineer role to leverage expertise in Data Structures, Algorithms, and scalable software design.  
-  <br>
-  💻 Passionate about building high-performance, reliable, and user-centric applications.  
-  <br>
-  📚 Experienced in Blockchain, Cybersecurity, Generative AI, and Hardware (Arduino, ESP32, Raspberry Pi).  
-  <br>
-  📫 How to reach me: <a href="mailto:sankalpabr.cs22@rvce.edu.in">sankalpabr.cs22@rvce.edu.in</a>
+  <br><br>
+  <ul>
+    <li>🎯 Seeking a Software Development Engineer role to leverage expertise in <b>Data Structures, Algorithms, and scalable software design</b>.</li>
+    <li>💻 Passionate about building <b>high-performance, reliable, and user-centric applications</b>.</li>
+    <li>📚 Experienced in <b>Blockchain, Cybersecurity, Generative AI, and Hardware (Arduino, ESP32, Raspberry Pi)</b>.</li>
+    <li>📫 How to reach me: <a href="mailto:sankalpabr.cs22@rvce.edu.in">sankalpabr.cs22@rvce.edu.in</a></li>
+  </ul>
 </p>
 
 <hr>
@@ -77,7 +76,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi logo" />
 </div>
-
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
